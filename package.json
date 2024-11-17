@@ -1,0 +1,17 @@
+{
+  "name": "module_08r_josmab24052_fto2410_group-a_joseph-mabeka_sdf08_r",
+  "version": "1.0.0",
+  "description": "Create a responsive footer for a website using Tailwind CSS. This project aims to enhance your CSS skills, focusing on responsive design and the utility-first approach of Tailwind CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+    
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.15"
+  }
+}
